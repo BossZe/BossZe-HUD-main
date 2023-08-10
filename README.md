@@ -1,9 +1,7 @@
 # BossZe-HUD-ALPHA
 
-Its a my Own HUD but still ALPHA
+Still in development
 
-you can try to use feel free :)
-
-# Warning for some user
+# DISCLAIMER
 
 this HUD *NOT SUPPORT MINIMAL MODE AND XBOX 360*
