@@ -1,7 +1,5 @@
-# BossZe-HUD-ALPHA
-
-Still in development
-
 # DISCLAIMER
+
+my HUD Still in development
 
 this HUD *NOT SUPPORT MINIMAL MODE AND XBOX 360*
