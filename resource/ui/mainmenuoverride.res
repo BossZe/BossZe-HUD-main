@@ -1332,7 +1332,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"VersionLabel"
 		"font"			"RobotoBold9"
-		"labelText"		"v0.6"
+		"labelText"		"v0.6.5"
 		"textAlignment"	"east"
 		"xpos"			"r52"
 		"ypos"			"r13"
