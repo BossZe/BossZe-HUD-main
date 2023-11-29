@@ -445,7 +445,7 @@
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"RobotoBold9"
+		"TextFont"		"ArialBold7"
 		
 		"TeamBlue"		"43 107 170 255"
 		"TeamRed"		"187 48 48 255"

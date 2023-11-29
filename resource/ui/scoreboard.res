@@ -594,11 +594,11 @@
 		"tall"				"200"
 		"autoResize"		"0"
 		"pinCorner"			"0"
-		"visible"			"0"
-		"enabled"			"0"
+		"visible"			"1"
+		"enabled"			"1"
 		"render_texture"	"0"
-		"fov"				"15"
-		"allow_rot"			"0"
+		"fov"				"20"
+		"allow_rot"			"1"
 
 		"model"
 		{

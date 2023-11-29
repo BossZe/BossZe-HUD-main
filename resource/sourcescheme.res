@@ -403,7 +403,7 @@ Scheme
 		}
 		"8" 
 		{
-			"font" "resource/fonts/zeesHUDNumbers.ttf"
-			"name" "zeesHUDNumbers"
+			"font" "resource/fonts/ArialBoldItalic.ttf"
+			"name" "Arial Bold Italic"
 		}
 }

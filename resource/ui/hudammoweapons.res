@@ -94,7 +94,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"zeesHUDNumbers15"
+		"font"			"RobotoBold40"
 		"fgcolor"		"TanLight"
 		"xpos"			"-9"
 		"ypos"			"1"
@@ -113,7 +113,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"zeesHUDNumbers15"
+		"font"			"RobotoBold40"
 		"fgcolor"		"0 0 0 255"
 		"xpos"			"-7.5"
 		"ypos"			"1"

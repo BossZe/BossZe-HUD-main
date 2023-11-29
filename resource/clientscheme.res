@@ -3105,29 +3105,29 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		zeesHUDNumbers7
+		ArialBold7
 		{
 			"1"
 			{
-				"name"		"zeesHUDNumbers"
-				"tall"		"15"
+				"name"		"Arial Bold Italic"
+				"tall"		"8.5"
 				"antialias" "1"
 			}
 		}
-		zeesHUDNumbers15
+		ArialBold15
 		{
 			"1"
 			{
-				"name"		"zeesHUDNumbers"
-				"tall"		"25"
+				"name"		"Arial Bold Italic"
+				"tall"		"19.5d"
 				"antialias" "1"
 			}
 		}
-		zeesHUDNumbers25
+		ArialBold25
 		{
 			"1"
 			{
-				"name"		"zeesHUDNumbers"
+				"name"		"Arial Bold Italic"
 				"tall"		"25"
 				"antialias" "1"
 			}
@@ -5951,7 +5951,7 @@ Scheme
 		}
 		"9" 
 		{
-			"font" "resource/fonts/zeesHUDNumbers.ttf"
-			"name" "zeesHUDNumbers"
+			"font" "resource/fonts/ArialBoldItalic.ttf"
+			"name" "Arial Bold Italic"
 		}
 }

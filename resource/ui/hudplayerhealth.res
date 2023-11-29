@@ -76,7 +76,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"zeesHUDNumbers25"
+		"font"			"RobotoBold40"
 		"fgcolor"		"TanLight"
 	}
 	"PlayerStatusHealthValueShadow"
@@ -92,7 +92,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"zeesHUDNumbers25"
+		"font"			"RobotoBold40"
 		"fgcolor"		"0 0 0 255"
 	}
 	"PlayerStatusHealthValueBG"
@@ -108,7 +108,7 @@
 		"enabled"		"0"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"zeesHUDNumbers25"
+		"font"			"RobotoBold40"
 		"fgcolor"		"0 0 0 255"
 	}
 	"PlayerStatusBleedImage"

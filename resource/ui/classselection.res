@@ -567,10 +567,10 @@
 		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"PaintBackgroundType"	"0"
-		"fillcolor"		"HudBlack"
+		"fillcolor"		"151 150 150 75"
 	}
 
 	"localPlayerImage"
