@@ -85,30 +85,14 @@
 		"model"
 		{
 			"force_pos"			"1"
-			"angles_x" 			"5"
+			"angles_x" 			"-5"
 			"angles_y" 			"150"
-			"angles_z" 			"0"
+			"angles_z" 			"-5"
 			"origin_x" 			"275"
 			"origin_y" 			"0"
 			"origin_z" 			"-57"
 			"spotlight" 		"1"
 			"modelname"			""
-		}
-
-		"customclassdata"
-		{
-			"Scout"
-			{
-				"force_pos"			"1"
-				"angles_x" 			"-1"
-				"angles_y" 			"150"
-				"angles_z" 			"0"
-				"origin_x" 			"275"
-				"origin_y" 			"0"
-				"origin_z" 			"-57"
-				"spotlight" 		"1"
-				"modelname"			""
-			}
 		}
 	}
 

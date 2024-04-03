@@ -6,11 +6,11 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"x_offset"		"40"
-		"xpos"			"r315"	[$WIN32]
-		"ypos"			"r211.1"	[$WIN32]
+		"xpos"			"c75"	[$WIN32]
+		"ypos"			"r150"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos_minmode"	"r68"	[$WIN32]
-		"x_offset_minmode"		"0"	[$WIN32]
+		"x_offset_minmode"		"0"	[$WIN32] //wtf is this?
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r124"	[$X360]
 		"wide"			"100"
@@ -61,7 +61,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFFontSmall"
+		"font"					"RobotoBold9"
 	}
 
 	"ItemEffectMeter"

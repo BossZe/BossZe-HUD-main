@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"185"
+		"xpos"			"c-240"
 		"ypos"			"r211.5"
 		"zpos"			"2"
 		"wide"			"250"
@@ -84,7 +84,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"0.5"
 		"zpos"			"5"
 		"wide"			"255"
 		"tall"			"122"

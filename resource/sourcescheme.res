@@ -137,7 +137,7 @@ Scheme
 		{
             "1" //For screen heights between 480 and 599 (eg 4:3 aspect Width 640x480 High, Width 720x576 High. 16:10 aspect Width 720x480 High)
             {
-                "name"         		"Lucida Console"
+                "name"         		"Courier New"
                 "tall"         		"10"
                 "tall_lodef" 		"15"
                 "tall_hidef" 		"20"
@@ -150,7 +150,7 @@ Scheme
             }
             "2" //For screen heights between 600 and 767 (eg 4:3 aspect Width 800X600 High, ... 16:9 aspect Width 1152x648 High.)
             {
-                "name"         		"Lucida Console"            
+                "name"         		"Courier New"            
                 "tall"         		"12"
                 "tall_lodef" 		"15"
                 "tall_hidef" 		"20"             
@@ -163,7 +163,7 @@ Scheme
             }
             "3" //For screen heights between 768 and 1023 (eg 4:3 aspect Width 1024X768 High... 16:9 aspect Width 1360x768 High, 16:9 aspect Width 1776x1000 High... 16:10 aspect Width 1280x768 High, 16:10 aspect Width 1280x800 High, 16:10 aspect Width 1400x900 High.)
             {
-                "name"         		"Lucida Console"          
+                "name"         		"Courier New"          
                 "tall"         		"14"
                 "tall_lodef" 		"15"
                 "tall_hidef" 		"20"             
@@ -176,7 +176,7 @@ Scheme
             }
             "4" //For screen heights between 1024 and 1199 (eg 4:3 aspect Width 1280X1024 High, Width 1400X1050 High...    16:9 aspect Width 1920x1080 High... 16:10 aspect Width 1680x1050 High.)
             {
-                "name"         		"Lucida Console"          
+                "name"         		"Courier New"          
                 "tall"         		"15"
                 "tall_lodef" 		"15"
                 "tall_hidef" 		"20"            
@@ -189,7 +189,7 @@ Scheme
             }
             "5" //For screen heights between 1200 and 6000 (6000...wow that's freaking huge!) (eg 4:3 aspect Width 1600X1200 High... 16:10 aspect Width 1920x1200 High.... and beyond) 
             {
-                "name"         		"Lucida Console"             
+                "name"         		"Courier New"             
                 "tall"         		"15"
                 "tall_lodef" 		"15"
                 "tall_hidef" 		"20"              
