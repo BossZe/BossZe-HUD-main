@@ -27,7 +27,7 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_font"		"RobotoBold15"
 
 		if_match
 		{
@@ -42,16 +42,16 @@
 			"PositiveColor"			"0 255 0 255"
 			"NegativeColor"			"255 0 0 255"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"RobotoBold15"
 		}
 		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"HudFontMediumSmall"
-			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMedium"
+			"font"			"RobotoBold15"
+			"font_minmode"	"RobotoBold15"
+			"font_lodef"	"RobotoBold15"
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
 			"xpos_minmode"	"39"
@@ -82,9 +82,9 @@
 				"tall"			"10"
 				"wide"			"35"
 				"wide_minmode"	"35"
-				"font"			"HudFontSmall"
-				"font_minmode"	"HudFontSmall"
-				"font_lodef"	"HudFontSmall"
+				"font"			"RobotoBold15"
+				"font_minmode"	"RobotoBold15"
+				"font_lodef"	"RobotoBold15"
 			
 			}
 		}	
@@ -109,7 +109,7 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_font"		"RobotoBold15"
 
 		if_match
 		{
@@ -124,16 +124,16 @@
 			"PositiveColor"			"0 255 0 255"
 			"NegativeColor"			"255 0 0 255"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"RobotoBold15"
 		}
 		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"HudFontMediumSmall"
-			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMedium"
+			"font"			"RobotoBold15"
+			"font_minmode"	"RobotoBold15"
+			"font_lodef"	"RobotoBold15"
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
 			"xpos_minmode"	"39"
@@ -164,9 +164,9 @@
 				"wide"			"35"
 				"wide_minmode"	"35"
 				"tall"			"10"
-				"font"			"HudFontSmall"
-				"font_minmode"	"HudFontSmall"
-				"font_lodef"	"HudFontSmall"
+				"font"			"RobotoBold15"
+				"font_minmode"	"RobotoBold15"
+				"font_lodef"	"RobotoBold15"
 			
 			}
 		}	

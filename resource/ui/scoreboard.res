@@ -392,7 +392,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerTimeLeftValue"
-		"font"			"RobotoBold3"
+		"font"			"RobotoBold6"
 		"labelText"		"%servertime%"
 		"textAlignment"		"west"
 		"xpos"			"0"

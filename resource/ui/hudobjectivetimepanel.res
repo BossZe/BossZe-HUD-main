@@ -338,10 +338,10 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"ClockSubText"
-		"font_minmode"	"ClockSubTextSuddenDeath"
-		"font_hidef"	"HudFontSmall"
-		"font_lodef"	"HudFontSmall"
+		"font"			"RobotoBold9"
+		"font_minmode"	"RobotoBold9"
+		"font_hidef"	"RobotoBold9"
+		"font_lodef"	"RobotoBold9"
 
 		if_match
 		{
@@ -350,9 +350,9 @@
 			"ypos"					"21"
 			"ypos_minmode"			"21"
 			"wide"					"p1"
-			"font"					"HudFontSmallestBold"
-			"font_hidef"			"HudFontSmallestBold"
-			"font_lodef"			"HudFontSmallestBold"
+			"font"					"RobotoBold9"
+			"font_hidef"			"RobotoBold9"
+			"font_lodef"			"RobotoBold9"
 		}
 	}	
 	"ServerTimeLimitLabelBG"
