@@ -1,7 +1,4 @@
-# BossZe-HUD-ALPHA
-
+# BossZe-HUD
 Still in development
 
-# DISCLAIMER
-
-this HUD *NOT SUPPORT MINIMAL MODE AND XBOX 360*
+we are currently trying to fixes Minimal mode 
