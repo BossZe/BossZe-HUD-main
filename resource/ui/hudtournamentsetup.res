@@ -11,8 +11,8 @@
 		"tall"			"65"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../HUD/tournament_panel_brown"
 
 
@@ -26,7 +26,7 @@
 	"TournamentSetupLabel"
 	{	
 		"ControlName"		"Label"
-		"fieldName"		"TournamentLabel"
+		"fieldName"		"TournamentSetupLabel"
 		"font"			"HudFontSmallBold"
 		"xpos"			"8"
 		"ypos"			"0"

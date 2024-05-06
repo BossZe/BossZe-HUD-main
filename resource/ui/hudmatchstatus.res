@@ -198,8 +198,8 @@
 	"RoundCounter"
 	{
 		"fieldName"		"RoundCounter"
-		"xpos"			"cs-0.5"
-		"ypos"			"-2"
+		"xpos"			"9999" //cs-0.5
+		"ypos"			"9999"	 //-2
 		"zpos"			"1"		
 		"wide"			"300"
 		"tall"			"100"
@@ -269,7 +269,7 @@
 		"xpos"				"c-55"
 		"xpos_hidef"		"c-150"
 		"xpos_lodef"		"c-150"
-		"ypos"				"0"
+		"ypos"				"400"
 		"ypos_minmode"		"-14"
 		"zpos"				"2"
 		"wide"				"110"

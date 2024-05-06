@@ -818,7 +818,7 @@
 				"wrap"			"0"
 				"labelText"		"%playername%"
 				"textAlignment"	"east"
-				"font"			"HudFontSmallest"
+				"font"			"RobotoBold6"
 			}
 			"Score"
 			{
