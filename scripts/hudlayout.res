@@ -711,8 +711,8 @@
 		"fieldName" "HudScopeCharge"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	 "c235" //default: 64, moves charge out of the way.
-		"ypos"	 "c-64"
+		"xpos"	 "c-20" //default: 64, moves charge out of the way.
+		"ypos"	 "c-30"
 		"wide"	 "64"
 		"tall"	 "128"
 	}

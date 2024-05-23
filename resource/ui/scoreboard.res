@@ -923,7 +923,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"LocalPlayerStatsPanel"
-		"xpos"			"148.5"
+		"xpos"			"c-280"
 		"ypos"			"310"
 		"zpos"			"3"
 		"wide"			"560"
