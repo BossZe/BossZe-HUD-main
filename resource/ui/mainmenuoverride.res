@@ -1,4 +1,4 @@
-#base "../../resource/preload.res"
+#base "../preload.res"
 
 "Resource/UI/MainMenuOverride.res"
 {
@@ -54,7 +54,7 @@
 
 				"border_default"	"MainMenuButtonDefault"
 				"border_armed"		"MainMenuButtonArmed"
-				"paintbackground"	"2"
+				"paintbackground"	"1"
 
 				"defaultFgColor_override" "255 255 255 255"
 				"armedFgColor_override"   "169 123 53 255"
@@ -1024,7 +1024,7 @@
 		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
 
 		"navUp"			"Notifications_Panel"
-		"navLeft"		"SettingsButton"
+		"navLeft"		"SettingsButtonNew"
 
 		"SubButton"
 		{
@@ -1094,7 +1094,7 @@
 		"pin_to_sibling_corner"	"PIN_CENTER_RIGHT"
 
 		"navUp"			"Notifications_Panel"
-		"navLeft"		"SettingsButton"
+		"navLeft"		"SettingsButtonNew"
 
 		"SubButton"
 		{
@@ -1150,7 +1150,7 @@
 		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"image"			"../vgui/new"
+		"image"			"new"
 		"scaleImage"	"0"
 	}
 
@@ -1332,7 +1332,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"VersionLabel"
 		"font"			"RobotoBold9"
-		"labelText"		"v0.7.5"
+		"labelText"		"v0.7.8"
 		"textAlignment"	"east"
 		"xpos"			"r52"
 		"ypos"			"r13"
@@ -1688,9 +1688,9 @@
 		"pin_corner_to_sibling"	"PIN_CENTER_LEFT"
 		"pin_to_sibling_corner"	"PIN_CENTER_RIGHT"
 
-		"navLeft"		"ResumeGameButton"
+		"navLeft"		"ReplayButton"
 		"navRight"		"CallVoteButton"
-		"navDown"		"QuickplayChangeButton"
+		"navDown"		"ReplayButton"
 		"navToRelay"	"SubButton"
 
 		"SubButton"
@@ -2158,7 +2158,7 @@
 		"pin_corner_to_sibling"	"PIN_CENTER_BOTTOM"
 		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
 
-		"navUp"			"VRModeButton"
+		"navUp"			"UpButton"
 		"navLeft"		"AchievementsButton"
 		"navRight"		"CoachPlayersButton"
 

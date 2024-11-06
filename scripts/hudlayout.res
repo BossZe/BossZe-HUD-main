@@ -496,14 +496,14 @@
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 
-		"TextFont"		"ArialBold7"
+		"TextFont"		"Tahoma10"
 		
 		"TeamBlue"		"43 107 170 255"
 		"TeamRed"		"187 48 48 255"
 		"IconColor"		"White"
 		"LocalPlayerColor"	"Black"
 
-		"BaseBackgroundColor"	"HudBlack"
+		"BaseBackgroundColor"	"0 0 0 0"
 		"LocalBackgroundColor"	"155 155 155 255"
 	}
 

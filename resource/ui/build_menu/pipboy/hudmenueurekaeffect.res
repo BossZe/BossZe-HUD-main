@@ -68,7 +68,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontGiant"
+		"font"			"RobotoBold32"
 		"xpos"			"68"			// align me to the left edge of the first selection
 		"ypos"			"8"
 		"zpos"			"2"
@@ -79,7 +79,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Teleport_Title"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"

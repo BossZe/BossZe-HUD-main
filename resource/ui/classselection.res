@@ -552,7 +552,7 @@
 		"enabled"		"0"
 		"tabPosition"	"0"
 		"labelText"		"%hint%"
-		"textAlignment"	"left"
+		"textAlignment"	"east"
 		"wrap"			"1"
 		"font"			"HudFontMediumSmallSecondary"
 		"fgcolor"		"HudTrainingHint"
@@ -767,7 +767,7 @@
 		"enabled"		"0"
 		"tabPosition"	"0"
 		"labelText"		"#TF_TeamCount"
-		"textAlignment"	"left"
+		"textAlignment"	"east"
 		"font"			"HudFontMediumSmallSecondary"
 		"fgcolor"		"255 255 255 255"
 	}

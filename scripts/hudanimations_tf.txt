@@ -50,7 +50,7 @@ event LevelInit
 event OpenWeaponSelectionMenu
 {
 	StopEvent CloseWeaponSelectionMenu	0.0
-	StopEvent WeaponPickup				0.0
+//	StopEvent WeaponPickup				0.0 (Current Bugged)
 
 	// make the display visible
 	Animate HudWeaponSelection Alpha 		"128"		Linear 0.0 0.1
@@ -63,7 +63,7 @@ event OpenWeaponSelectionMenu
 event CloseWeaponSelectionMenu
 {
 	StopEvent CloseWeaponSelectionMenu	0.0
-	StopEvent WeaponPickup				0.0
+//	StopEvent WeaponPickup				0.0 (Current Bugged)
 
 	// make the display visible
 	Animate HudWeaponSelection Alpha 		"128"		Linear 0.0 0.1

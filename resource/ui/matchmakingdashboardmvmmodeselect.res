@@ -118,9 +118,9 @@
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 
-			"NavUp"			"Sheet"
-			"NavDown"		"BackButton"
-			"NavLeft"		"Sheet"
+			"NavUp"			"Shade"
+			"NavDown"		"PracticeButton"
+			"NavLeft"		"Shade"
 			"NavRight"		"PracticeButton"
 
 			"sound_depressed"	"UI/buttonclick.wav"

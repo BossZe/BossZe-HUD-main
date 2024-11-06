@@ -3,7 +3,7 @@
 	"MutePlayerDialog"
 	{
 		"ControlName"		"CMutePlayerDialog"
-		"fieldName"		"CMutePlayerDialog"
+		"fieldName"		"MutePlayerDialog"
 		"xpos"		"cs-0.5"
 		"ypos"		"cs-0.5"
 		"wide"		"560"

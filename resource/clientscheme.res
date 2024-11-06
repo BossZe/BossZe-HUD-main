@@ -3105,6 +3105,26 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		Tahoma7
+		{
+			"1"
+			{
+				"name"		"Tahoma Bold"
+				"tall"		"7"
+				"weight"	"0"
+				"dropshadow"	"1"
+			}
+		}
+		Tahoma10
+		{
+			"1"
+			{
+				"name"		"Tahoma Bold"
+				"tall"		"10"
+				"weight"	"0"
+				"dropshadow"	"1"
+			}
+		}
 		ArialBold7
 		{
 			"1"

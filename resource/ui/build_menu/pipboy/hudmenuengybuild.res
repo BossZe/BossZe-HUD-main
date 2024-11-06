@@ -78,7 +78,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_menu_build_title"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
@@ -88,7 +88,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CancelLabel"
-		"font"			"SpectatorKeyHints"
+		"font"			"Tahoma10"
 		"xpos"			"218"
 		"ypos"			"35"
 		"zpos"			"1"

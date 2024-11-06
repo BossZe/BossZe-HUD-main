@@ -176,8 +176,8 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"ActiveTimerBG"
-		"xpos"				"0"
-		"ypos"				"9"
+		"xpos"				"999"
+		"ypos"				"999"
 		"ypos_minmode"		"-4"
 		"zpos"				"1"
 		"wide"				"78"
@@ -185,7 +185,7 @@
 		"tall"				"33"
 		"tall_minmode"		"21"
 		"visible"			"0"
-		"enabled"			"1"
+		"enabled"			"0"
 		"image"				"../hud/objectives_timepanel_active_bg"	
 		"scaleImage"		"1"	
 	}
