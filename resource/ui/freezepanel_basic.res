@@ -83,8 +83,8 @@
 			"zpos"			"0"
 			"wide"			"256"
 			"tall"			"33"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"image"			"../hud/color_panel_blu"
 			"scaleImage"		"1"	
 			
@@ -115,7 +115,7 @@
 			"brighttext"		"0"
 		}
 		
-		"FreezePanelHealth"		[$WIN32]
+		"FreezePanelHealth"
 		{
 			"ControlName"	"CTFFreezePanelHealth"
 			"fieldName"		"FreezePanelHealth"
