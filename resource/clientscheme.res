@@ -3096,6 +3096,69 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		oneshot5
+		{
+			"1"
+			{
+				"name"		"Terminus Bold"
+				"tall"		"5"
+				"antialias" "1"
+			}
+		}
+		oneshotB9
+		{
+			"1"
+			{
+				"name"		"Terminus Bold"
+				"tall"		"9"
+				"antialias" "1"
+			}
+		}
+		oneshot12
+		{
+			"1"
+			{
+				"name"		"Terminus Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		oneshot17
+		{
+			"1"
+			{
+				"name"		"Terminus Bold"
+				"tall"		"17"
+				"antialias" "1"
+			}
+		}
+		oneshot21
+		{
+			"1"
+			{
+				"name"		"Terminus Bold"
+				"tall"		"21"
+				"antialias" "1"
+			}
+		}
+		oneshot30
+		{
+			"1"
+			{
+				"name"		"Terminus Bold"
+				"tall"		"30"
+				"antialias" "1"
+			}
+		}
+		oneshot42
+		{
+			"1"
+			{
+				"name"		"Terminus Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
 		RobotoBold53
 		{
 			"1"
@@ -5963,7 +6026,6 @@ Scheme
 				"range" "0x0000 0x007E"
 			}
 		}
-	}
 		"8" 
 		{
 			"font" "resource/fonts/Roboto-Bold.ttf"
@@ -5974,4 +6036,5 @@ Scheme
 			"font" "resource/fonts/ArialBoldItalic.ttf"
 			"name" "Arial Bold Italic"
 		}
+	}
 }

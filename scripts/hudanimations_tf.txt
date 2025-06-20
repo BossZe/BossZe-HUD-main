@@ -210,6 +210,9 @@ event HudHealthBonusPulse
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"			Linear 0.2 0.4
 	Animate  PlayerStatusHealthValue		fgcolor		"0 255 255 255" 	Linear 0.0 0.0
 
+	Animate	niko									Alpha		"0"								Linear	0.0		0.0
+		Animate	nikobuff								Alpha		"255"								Linear	0.0		0.0
+
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
 
@@ -224,6 +227,10 @@ event HudHealthBonusPulseStop
 	StopEvent HudHealthBonusPulse 0.0
 	StopEvent HudHealthBonusPulseLoop 0.0
 	Animate  PlayerStatusHealthValue		fgcolor 		"255 255 255 255"	Linear 0.0 0.0
+
+	Animate	niko							Alpha		"255"								Linear	0.0		0.0
+		Animate	nikobuff						Alpha		"0"								Linear	0.0		0.0
+
 }
 
 //===========================================
@@ -235,6 +242,10 @@ event HudHealthDyingPulse
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"			Linear 0.125 0.075
 	Animate  PlayerStatusHealthValue 		fgcolor		"255 0 157 255"	Linear 0.0 0.0
 	RunEvent HudHealthDyingPulseLoop	0.25
+
+	Animate	nikohurt						Alpha		"255"								Linear	0.0		0.0
+	Animate	niko							Alpha		"0"								Linear	0.0		0.0
+
 }
 
 // call to loop HudHealthDyingPulse
@@ -247,6 +258,10 @@ event HudHealthDyingPulseStop
 {
 	StopEvent HudHealthDyingPulse 0.0
 	StopEvent HudHealthDyingPulseLoop 0.0
+
+	Animate	niko						Alpha		"255"								Linear	0.0		0.0
+	Animate	nikohurt					Alpha		"0"								Linear	0.0		0.0
+	
 }
 
 //===========================================
