@@ -1,4 +1,5 @@
 # BossZe-HUD
-Still in development
+based from ahud
+my design of hud for using my own in my brain ig
 
-we are currently trying to fixes Minimal mode 
+im not recommended using minimal mode cuz its a lot of bug and not editable
