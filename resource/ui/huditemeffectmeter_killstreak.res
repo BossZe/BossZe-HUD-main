@@ -5,10 +5,10 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-200"	[$WIN32]
-		"ypos"			"r210"	[$WIN32]
-		"xpos_minmode"	"68"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		"xpos"			"c-200"
+		"ypos"			"r210"
+		"xpos_minmode"	"c0"
+		"ypos_minmode"	"c0"
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -60,7 +60,7 @@
 	{	
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
-		"font"					"Default"
+		"font"					"RobotoBold9"
 		"xpos"					"25"
 		"ypos"					"23"
 		"ypos_minmode"			"0"
@@ -83,7 +83,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"25"
-		"ypos_minmode"			"18"
+		"ypos_minmode"			"16"
 		"ypos"					"10"
 		"zpos"					"2"
 		"wide"					"40"
@@ -97,6 +97,29 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"RobotoBold25"
-		"font_minmode"			"HudFontSmall"
+		"font_minmode"			"RobotoBold15"
+	}
+
+	"ItemEffectMeterCountShadow"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterCount"
+		"xpos"					"25"
+		"ypos_minmode"			"17"
+		"ypos"					"10"
+		"zpos"					"2"
+		"wide"					"40"
+		"tall"					"20"	
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labelText"				"%progresscount%"
+		"textAlignment"			"north"
+		"fgcolor"				"0 0 0 255"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"RobotoBold25"
+		"font_minmode"			"RobotoBold15"
 	}
 }

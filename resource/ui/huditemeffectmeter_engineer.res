@@ -7,6 +7,8 @@
 		"enabled"		"1"
 		"xpos"			"c125"
 		"ypos"			"r211.1"
+		"xpos_minmode"			"c35"
+		"ypos_minmode"			"c"
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -82,6 +84,7 @@
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"25"
 		"ypos"					"10"
+		"ypos_minmode"			"16"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -94,6 +97,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"RobotoBold25"
+		"font_minmode"			"RobotoBold15"
 	}
 	"ItemEffectMeterCountShadow"
 	{
@@ -101,6 +105,7 @@
 		"fieldName"				"ItemEffectMeterCountShadow"
 		"xpos"					"26"
 		"ypos"					"11"
+		"ypos_minmode"			"17"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -114,5 +119,6 @@
 		"brighttext"			"0"
 		"fgcolor"				"0 0 0 255"
 		"font"					"RobotoBold25"
+		"font_minmode"			"RobotoBold15"
 	}
 }
