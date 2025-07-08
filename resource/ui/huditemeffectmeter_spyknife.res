@@ -8,10 +8,10 @@
 		"x_offset"		"40"
 		"xpos"			"r174"	[$WIN32]
 		"ypos"			"r57"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos_minmode"	"r68"	[$WIN32]
-		"wide"			"100"
-		"tall"			"50"
+		"xpos_minmode"	"c14"	[$WIN32]
+		"ypos_minmode"	"c110"	[$WIN32]
+		"wide"			"9999"
+		"tall"			"9999"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}

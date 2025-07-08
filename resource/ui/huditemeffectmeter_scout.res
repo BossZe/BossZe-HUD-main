@@ -8,11 +8,9 @@
 		"x_offset"		"40"
 		"xpos"			"c75"	[$WIN32]
 		"ypos"			"r150"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos_minmode"	"r68"	[$WIN32]
+		"xpos_minmode"	"c-26"	[$WIN32]
+		"ypos_minmode"	"c110"	[$WIN32]
 		"x_offset_minmode"		"0"	[$WIN32] //wtf is this?
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r124"	[$X360]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -53,7 +51,7 @@
 		"visible"				"1"
 		"visible_minmode"		"1"
 		"ypos_minmode"			"1"
-		"xpos_minmode"			"0"
+		"xpos_minmode"			"18"
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
 		"tabPosition"			"0"

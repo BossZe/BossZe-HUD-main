@@ -7,8 +7,8 @@
 		"enabled"		"1"
 		"xpos"			"r350"	[$WIN32]
 		"ypos"			"r211.3"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos_minmode"	"r68"	[$WIN32]
+		"xpos_minmode"	"c-26"	[$WIN32]
+		"ypos_minmode"	"c110"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -49,7 +49,7 @@
 		"visible"				"1"
 		"visible_minmode"		"1"
 		"ypos_minmode"			"1"
-		"xpos_minmode"			"0"
+		"xpos_minmode"			"16"
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
 		"tabPosition"			"0"

@@ -1,4 +1,4 @@
-"Resource/NewGameDialog.res"	[$WIN32]
+"Resource/NewGameDialog.res"
 {
 	"NewGameDialog"
 	{

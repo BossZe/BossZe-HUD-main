@@ -8,8 +8,8 @@
 		"x_offset"		"40"
 		"xpos"			"r174"
 		"ypos"			"r57"
-		"xpos_minmode"	"r52"
-		"ypos_minmode"	"r68"
+		"xpos_minmode"	"c-26"	[$WIN32]
+		"ypos_minmode"	"c110"	[$WIN32]
 		"x_offset_minmode"		"0"
 		"wide"			"100"
 		"tall"			"50"
@@ -51,7 +51,7 @@
 		"visible"				"1"
 		"visible_minmode"		"1"
 		"ypos_minmode"			"1"
-		"xpos_minmode"			"0"
+		"xpos_minmode"			"14"
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
 		"tabPosition"			"0"
@@ -59,7 +59,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFFontSmall"
+		"font"					"RobotoBold9"
 	}
 
 	"ItemEffectMeter"

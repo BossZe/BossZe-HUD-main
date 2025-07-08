@@ -82,7 +82,7 @@ Scheme
 		FrameGrip.Color1				"TFTanMedium"
 		FrameGrip.Color2				"TFDarkBrown"
 		FrameTitleButton.FgColor		"TFTanBright"
-		FrameTitleBar.Font			"DefaultLarge"		[$WIN32]
+		FrameTitleBar.Font			"DefaultLarge"
 		FrameTitleBar.TextColor			"TFTanBright"
 		FrameTitleBar.DisabledTextColor	"TFTanLight"
 		
@@ -99,8 +99,8 @@ Scheme
 		ListPanel.SelectedBgColor			"SelectionBG"
 		ListPanel.SelectedOutOfFocusBgColor	"SelectionBG2"
 		
-		MainMenu.TextColor			"TanLight"			[$WIN32]
-		MainMenu.ArmedTextColor		"117 107 94 255"	[$WIN32]
+		MainMenu.TextColor			"TanLight"
+		MainMenu.ArmedTextColor		"117 107 94 255"
 		MainMenu.Inset				"32"
 		
 		Menu.TextInset					"6"
@@ -203,7 +203,7 @@ Scheme
 		}
 		"MainMenuFont"
 		{
-			"1"	[$WIN32]
+			"1"
 			{
 				"name"		"TF2 Build"
 				"tall"		"18"
@@ -212,14 +212,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"MenuLarge"
-		{
-			"1"	[$X360]
-			{
-				"tall_hidef"		"24"
-			}
-		}
-
 		"ServerBrowserTitle"
 		{
 			"1"
@@ -291,7 +283,7 @@ Scheme
 		}
 		
 				
-		AchievementItemTitle	[$WIN32]
+		AchievementItemTitle
 		{
 			"1"
 			{
@@ -304,7 +296,7 @@ Scheme
 			}
 		}
 		
-		AchievementItemTitleLarge	[$WIN32]
+		AchievementItemTitleLarge
 		{
 			"1"
 			{

@@ -41,7 +41,7 @@ Scheme
 		Button.TextColor				"White"
 		Button.BgColor					"Blank"
 		Button.ArmedTextColor			"White"
-		Button.ArmedBgColor				"Blank"				[$WIN32]
+		Button.ArmedBgColor				"Blank"
 		Button.DepressedTextColor		"White"
 		Button.DepressedBgColor			"Blank"
 		Button.FocusBorderColor			"Black"
@@ -63,8 +63,8 @@ Scheme
 		Frame.TitleTextInsetX			16
 		Frame.ClientInsetX				8
 		Frame.ClientInsetY				6
-		Frame.BgColor					"160 160 160 128"	[$WIN32]
-		Frame.OutOfFocusBgColor			"160 160 160 32"	[$WIN32]
+		Frame.BgColor					"160 160 160 128"
+		Frame.OutOfFocusBgColor			"160 160 160 32"
 		Frame.FocusTransitionEffectTime	"0.3"	// time it takes for a window to fade in/out on focus/out of focus
 		Frame.TransitionEffectTime		"0.3"	// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
@@ -78,8 +78,8 @@ Scheme
 		FrameSystemButton.BgColor		"Blank"
 		FrameSystemButton.Icon			""
 		FrameSystemButton.DisabledIcon	""
-		FrameTitleBar.Font				"UiBold"		[$WIN32]
-		FrameTitleBar.Font				"DefaultLarge"	[$WIN32]
+		FrameTitleBar.Font				"UiBold"
+		FrameTitleBar.Font				"DefaultLarge"
 		FrameTitleBar.TextColor			"White"
 		FrameTitleBar.BgColor			"Blank"
 		FrameTitleBar.DisabledTextColor	"255 255 255 192"
@@ -177,10 +177,10 @@ Scheme
 		WizardSubPanel.BgColor		"Blank"
 
 		// scheme-specific colors
-		MainMenu.TextColor			"White"				[$WIN32]
-		MainMenu.ArmedTextColor		"200 200 200 255"	[$WIN32]
+		MainMenu.TextColor			"White"	
+		MainMenu.ArmedTextColor		"200 200 200 255"
 		MainMenu.DepressedTextColor	"192 186 80 255"
-		MainMenu.MenuItemHeight		"16"	[$WIN32]
+		MainMenu.MenuItemHeight		"16"
 		MainMenu.Inset				"32"
 		MainMenu.Backdrop			"0 0 0 156"
 
@@ -189,7 +189,7 @@ Scheme
 
 		NewGame.TextColor			"White"
 		NewGame.FillColor			"0 0 0 255"
-		NewGame.SelectionColor		"Orange"	[$WIN32]
+		NewGame.SelectionColor		"Orange"
 		NewGame.DisabledColor		"128 128 128 196"
 
 		TFColors.ChatTextYellow		"251 235 202 255"
@@ -354,7 +354,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"12"	[$WIN32]
+				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
 				"dropshadow"	"1"
@@ -362,7 +362,7 @@ Scheme
 			"2"
 			{
 				"name"		"Verdana"
-				"tall"		"14"	[$WIN32]
+				"tall"		"14"
 				"weight"	"700"
 				"yres"		"600 767"
 				"dropshadow"	"1"
@@ -370,7 +370,7 @@ Scheme
 			"3"
 			{
 				"name"		"Verdana"
-				"tall"		"15"	[$WIN32]
+				"tall"		"15"
 				"weight"	"700"
 				"yres"		"768 1023"
 				"dropshadow"	"1"
@@ -378,7 +378,7 @@ Scheme
 			"4"
 			{
 				"name"		"Verdana"
-				"tall"		"17"	[$WIN32]
+				"tall"		"17"
 				"weight"	"700"
 				"yres"		"1024 1199"
 				"dropshadow"	"1"
@@ -386,7 +386,7 @@ Scheme
 			"5"
 			{
 				"name"		"Verdana"
-				"tall"		"22"	[$WIN32]
+				"tall"		"22"
 				"weight"	"700"
 				"yres"		"1200 10000"
 				"dropshadow"	"1"

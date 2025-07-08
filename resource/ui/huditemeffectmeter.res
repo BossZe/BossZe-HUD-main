@@ -6,9 +6,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c75"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
+		"xpos_minmode"	"c-26"	[$WIN32]
+		"ypos_minmode"	"c130"	[$WIN32]
 		"ypos"			"r155"	[$WIN32]
-		"ypos_minmode"	"r54"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -49,7 +49,7 @@
 		"visible"				"1"
 		"visible_minmode"		"1"
 		"ypos_minmode"			"1"
-		"xpos_minmode"			"0"
+		"xpos_minmode"			"20"
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
 		"tabPosition"			"0"
@@ -57,7 +57,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"RobotoBold6"
+		"font"					"RobotoBold9"
 	}
 
 	"ItemEffectMeter"

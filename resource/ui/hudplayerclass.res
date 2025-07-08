@@ -24,6 +24,7 @@
 		"wide"			"75"
 		"tall"			"75"
 		"visible"		"1"
+		"visible_minmode"		"0"
 		"enabled"		"1"
 		"image"			"../hud/class_scoutred"
 		"scaleImage"	"1"
