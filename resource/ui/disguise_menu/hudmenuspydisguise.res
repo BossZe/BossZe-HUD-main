@@ -59,7 +59,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Disguise_Title"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
@@ -80,7 +80,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Disguise_Title"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}	
@@ -100,7 +100,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Spy_Minus_Toggle"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
@@ -344,7 +344,7 @@
 	"NumberBg1"	
 	{
 		"ControlName"	"CIconPanel"
-		"fieldName"		"NumberBg"
+		"fieldName"		"NumberBg1"
 		"xpos"			"75"
 		"ypos"			"140"
 		"zpos"			"4"
@@ -360,7 +360,7 @@
 	"NumberLabel1"
 	{	
 		"ControlName"	"CExLabel"
-		"fieldName"		"NumberLabel"
+		"fieldName"		"NumberLabel1"
 		"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"75"
@@ -381,7 +381,7 @@
 	"NumberBg2"
 	{
 		"ControlName"	"CIconPanel"
-		"fieldName"		"NumberBg"
+		"fieldName"		"NumberBg2"
 		"xpos"			"227"
 		"ypos"			"140"
 		"zpos"			"4"
@@ -397,7 +397,7 @@
 	"NumberLabel2"
 	{	
 		"ControlName"	"CExLabel"
-		"fieldName"		"NumberLabel"
+		"fieldName"		"NumberLabel2"
 		"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"227"
@@ -418,7 +418,7 @@
 	"NumberBg3"
 	{
 		"ControlName"	"CIconPanel"
-		"fieldName"		"NumberBg"
+		"fieldName"		"NumberBg3"
 		"xpos"			"379"
 		"ypos"			"140"
 		"zpos"			"4"
@@ -434,7 +434,7 @@
 	"NumberLabel3"
 	{	
 		"ControlName"	"CExLabel"
-		"fieldName"		"NumberLabel"
+		"fieldName"		"NumberLabel3"
 		"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"379"

@@ -92,7 +92,7 @@
 					
 					"labelText"		"#TF_SurveyQuestion_CasualInquiry_Answer0"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					"textAlignment"	"west"
 
 					"associate"		"Radio0"
 				}
@@ -130,7 +130,7 @@
 					
 					"labelText"		"#TF_SurveyQuestion_CasualInquiry_Answer1"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					"textAlignment"	"west"
 				}
 
 				"Answer2" 
@@ -166,7 +166,7 @@
 					
 					"labelText"		"#TF_SurveyQuestion_CasualInquiry_Answer2"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					"textAlignment"	"west"
 					"default"		"1"
 				}
 
@@ -203,7 +203,7 @@
 					
 					"labelText"		"#TF_SurveyQuestion_CasualInquiry_Answer3"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					"textAlignment"	"west"
 				}
 
 				"Answer4"
@@ -239,7 +239,7 @@
 					
 					"labelText"		"#TF_SurveyQuestion_CasualInquiry_Answer4"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					"textAlignment"	"west"
 				}
 
 				"Answer5"
@@ -275,7 +275,7 @@
 					
 					"labelText"		"#TF_SurveyQuestion_CasualInquiry_Answer5"
 					"font"			"HudFontSmallest"
-					"textAlignment"	"left"
+					"textAlignment"	"west"
 				}
 			}
 

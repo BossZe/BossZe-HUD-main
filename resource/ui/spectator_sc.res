@@ -17,7 +17,7 @@
 	"topbar"
 	{
 		"ControlName"		"Panel"
-		"fieldName"		"TopBar"
+		"fieldName"		"topbar"
 		"xpos"			"0"
 		"ypos"			"0"
 		"tall"			"84"
@@ -149,7 +149,6 @@
 		"zpos"			"7"
 		"wide"			"60"
 		"tall"			"20"
-		"zpos"			"2"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -307,7 +306,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#FreezePanel_Item"
-			"textAlignment"	"Left"
+			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}

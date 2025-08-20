@@ -419,7 +419,7 @@
 		"ItemName"
 		{		
 			"ControlName"	"CItemModelPanel"
-			"fieldName"		"ItemName"
+			"fieldName"		"ItemNameLabel"
 			"xpos"			"cs-0.5"
 			"ypos"			"35"
 			"zpos"			"5"

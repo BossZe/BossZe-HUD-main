@@ -15,7 +15,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Object_Tele_Exit_360"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
@@ -100,6 +100,6 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"%metal%"
-		"textAlignment"	"Left"	
+		"textAlignment"	"west"	
 	}
 }

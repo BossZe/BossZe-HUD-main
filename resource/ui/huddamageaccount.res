@@ -17,12 +17,12 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"CDamageAccountValue"
-		"fgcolor"				"255 0 179 255"
+		"fgcolor"				"251 255 0 255"
 		"font"					"RobotoBold25"
 		"font_minmode"					"RobotoBold15"
-		"xpos"					"c-130"
-		"ypos"					"r200"
-		"xpos_minmode"			"c-3"
+		"xpos"					"c-51"
+		"ypos"					"c75"
+		"xpos_minmode"			"c-50"
 		"ypos_minmode"			"c35"
 		"zpos"					"2"
 		"wide"					"100"
@@ -30,7 +30,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"%metal%"
-		"textAlignment"			"left"
+		"textAlignment"			"center"
 	}
 	"CDamageAccountValueShadow"
 	{
@@ -39,9 +39,9 @@
 		"fgcolor"				"0 0 0 255"
 		"font"					"RobotoBold25"
 		"font_minmode"			"RobotoBold15"
-		"xpos"					"c-129"
-		"ypos"					"r200"
-		"xpos_minmode"			"c-4"
+		"xpos"					"c-50"
+		"ypos"					"c75"
+		"xpos_minmode"			"c-49"
 		"ypos_minmode"			"c36"
 		"zpos"					"1"
 		"wide"					"100"
@@ -49,6 +49,6 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"%metal%"
-		"textAlignment"			"left"
+		"textAlignment"			"center"
 	}
 }

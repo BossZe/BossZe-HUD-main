@@ -26,7 +26,7 @@
 			"proportionaltoparent"	"1"
 
 			"border"	"QuestStatusBorder"
-			"paintborder"	"2"
+			"paintborder"	"1"
 
 			"ItemName"
 			{

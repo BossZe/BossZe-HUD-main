@@ -78,7 +78,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
-		"font"			"aRegular11"
+		"font"			"RobotoBold15"
 		"fgcolor"		"TanDark"
 		"xpos"			"0"
 		"ypos"			"55"
@@ -132,7 +132,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"HudMenuNumberFont"
+		"font"			"RobotoBold9"
 		"fgcolor"		"Black"
 		"xpos"			"0"
 		"ypos"			"98"

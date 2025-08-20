@@ -98,7 +98,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"HudMenuNumberFont"
+		"font"			"RobotoBold9"
 		"fgcolor"		"Black"
 		"xpos"			"0"
 		"ypos"			"98"

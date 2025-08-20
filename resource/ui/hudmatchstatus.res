@@ -533,7 +533,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"Jost12Shadow"
+				"font"			"RobotoBold15"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"5"

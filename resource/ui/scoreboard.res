@@ -588,8 +588,8 @@
 	{
 		"ControlName"		"CTFPlayerModelPanel"
 		"fieldName"			"classmodelpanel"
-		"xpos"				"r153"
-		"ypos"				"r125"
+		"xpos"				"0"
+		"ypos"			"r125"
 		"zpos"				"2"
 		"wide"				"150"
 		"tall"				"200"
@@ -604,14 +604,118 @@
 		"model"
 		{
 			"force_pos"			"1"
-			"angles_x" 			"-5"
-			"angles_y" 			"150"
-			"angles_z" 			"-5"
+			"angles_x" 			"2"
+			"angles_y" 			"-165"
+			"angles_z" 			"0"
 			"origin_x" 			"275"
 			"origin_y" 			"0"
 			"origin_z" 			"-57"
 			"spotlight" 		"1"
 			"modelname"			""
+		}
+
+		"customclassdata"
+		{
+			"undefined"
+			{
+				"fov"			"100"
+				"angles_x"		"-17"
+				"angles_y"		"200"
+				"angles_z"		"-10"
+				"origin_x"		"105"
+				"origin_y"		"5"
+				"origin_z"		"-78"
+			}
+			"Scout"
+			{
+				"fov"				"18"
+				"angles_x" 			"2"
+				"angles_y" 			"-150"
+				"angles_z" 			"0"
+				"origin_x" 			"275"
+				"origin_y" 			"0"
+				"origin_z" 			"-50"
+			}
+			"Sniper"
+			{
+				"fov"				"18"
+				"angles_x" 			"2"
+				"angles_y" 			"-165"
+				"angles_z" 			"0"
+				"origin_x" 			"275"
+				"origin_y" 			"0"
+				"origin_z" 			"-57"
+			}
+			"Soldier"
+			{
+				"fov"				"18"
+				"angles_x" 			"2"
+				"angles_y" 			"-175"
+				"angles_z" 			"0"
+				"origin_x" 			"275"
+				"origin_y" 			"0"
+				"origin_z" 			"-57"
+			}
+			"Demoman"
+			{
+				"fov"				"18"
+				"angles_x" 			"2"
+				"angles_y" 			"-165"
+				"angles_z" 			"0"
+				"origin_x" 			"275"
+				"origin_y" 			"0"
+				"origin_z" 			"-57"
+			}
+			"Medic"
+			{
+				"fov"				"18"
+				"angles_x" 			"2"
+				"angles_y" 			"-145"
+				"angles_z" 			"0"
+				"origin_x" 			"275"
+				"origin_y" 			"0"
+				"origin_z" 			"-57"
+			}
+			"Heavy"
+			{
+				"fov"				"18"
+				"angles_x" 			"2"
+				"angles_y" 			"-155"
+				"angles_z" 			"0"
+				"origin_x" 			"275"
+				"origin_y" 			"0"
+				"origin_z" 			"-57"
+			}
+			"Pyro"
+			{
+				"fov"				"18"
+				"angles_x" 			"2"
+				"angles_y" 			"-185"
+				"angles_z" 			"0"
+				"origin_x" 			"275"
+				"origin_y" 			"0"
+				"origin_z" 			"-50"
+			}
+			"Spy"
+			{
+				"fov"				"18"
+				"angles_x" 			"2"
+				"angles_y" 			"-165"
+				"angles_z" 			"0"
+				"origin_x" 			"275"
+				"origin_y" 			"0"
+				"origin_z" 			"-57"
+			}
+			"Engineer"
+			{
+				"fov"				"18"
+				"angles_x" 			"2"
+				"angles_y" 			"-165"
+				"angles_z" 			"0"
+				"origin_x" 			"275"
+				"origin_y" 			"0"
+				"origin_z" 			"-55"
+			}
 		}
 	}
 	"PlayerNameLabel"

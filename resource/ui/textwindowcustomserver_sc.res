@@ -60,7 +60,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"paintborder"	"0"
-		"textAlignment"	"northwest"
+		"textAlignment"	"north-west"
 		"fgcolor"		"Gray"
 	}
 
@@ -118,7 +118,7 @@
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"actionSet"		"InGameHUDControls"

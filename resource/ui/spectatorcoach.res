@@ -17,7 +17,7 @@
 	"topbar"
 	{
 		"ControlName"		"Panel"
-		"fieldName"		"TopBar"
+		"fieldName"		"topbar"
 		"xpos"			"0"
 		"ypos"			"0"
 		"tall"			"70"	[$WIN32]
@@ -380,7 +380,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#FreezePanel_Item"
-			"textAlignment"	"Left"
+			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}

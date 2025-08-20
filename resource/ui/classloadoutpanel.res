@@ -106,7 +106,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"aBold24"
+		"font"			"RobotoBold15"
 		"labelText"		"#ClassBeingEquipped"
 		"textAlignment"	"center"
 		"xpos"			"c-120"
@@ -381,7 +381,7 @@
 		"visible"		"0"
 		"bgcolor_override"		"21 21 21 255"
 		"PaintBackgroundType"	"0"
-		"border"		"bzhudPanelBorder"
+		"border"		"NoBorder"
 	}
 
 	"TauntHintLabel"

@@ -247,7 +247,7 @@
 	"topbar"
 	{
 		"ControlName"	"Panel"
-		"fieldName"		"TopBar"
+		"fieldName"		"topbar"
 		"visible"		"0"
 		"tall"			"33"
 	}
@@ -418,7 +418,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		"#FreezePanel_Item"
-			"textAlignment"	"Left"
+			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}

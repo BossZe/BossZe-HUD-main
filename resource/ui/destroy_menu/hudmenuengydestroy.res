@@ -60,7 +60,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_menu_demolish_title"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}
@@ -80,7 +80,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#Hud_menu_demolish_title"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}

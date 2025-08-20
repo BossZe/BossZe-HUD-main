@@ -84,7 +84,7 @@
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"120"
 		"tall"			"8"
-		"MeterFG"		"FullWhite"
+		"MeterFG"		"white"
 		"MeterBG"		"Gray"
 	}
 
@@ -94,9 +94,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-45"	[$WIN32]
-		"ypos"			"r175"	[$WIN32]
-		"wide"			"100"
-		"tall"			"50"
+		"ypos"			"c0"	[$WIN32]
+		"wide"			"9999"
+		"tall"			"9999"
 	}
 
 	HudBowCharge
@@ -187,7 +187,7 @@
 		"BoxColor" "0 0 0 220"
 		"SelectedBoxClor" "0 0 0 220"
 		"SelectionNumberFg"	"200 187 161 255"
-		"NumberFont" "HudFont15"
+		"NumberFont" "RobotoBold12"
 	}
 
 	CHudAccountPanel
@@ -404,7 +404,7 @@
 
 		"PaintBackgroundType"	"2"
 
-		"IconColor"				"Hostage_Yellow"
+		"IconColor"				"255 251 0 251"
 	}
 
 	HudFlashlight

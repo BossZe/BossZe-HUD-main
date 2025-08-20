@@ -15,7 +15,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Object_dispenser"
-		"textAlignment"	"Left"
+		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"0 255 0 255"
@@ -98,7 +98,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"HudMenuNumberFont"
+		"font"			"RobotoBold9"
 		"fgcolor"		"Black"
 		"xpos"			"0"
 		"ypos"			"98"

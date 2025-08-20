@@ -927,7 +927,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"labelText"		"Y"
-		"textAlignment"	"left"
+		"textAlignment"	"west"
 
 		if_mvm
 		{

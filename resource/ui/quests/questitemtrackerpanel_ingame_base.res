@@ -32,7 +32,7 @@
 
 		"ModelImageKV"
 		{
-			"fieldName"	"ModelImage"
+			"fieldName"	"ModelImageKV"
 			"visible"	"0"
 		}
 

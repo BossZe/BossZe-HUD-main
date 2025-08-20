@@ -63,14 +63,14 @@
 		"enabled"		"0"
 		"scaleImage"	"1"
 		"icon"			"ico_build"
-		"iconColor"		"ShadowBlack"
+		"iconColor"		"75 75 75 255"
 	}
 
 	"TitleLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"aRegular20"
+		"font"			"RobotoBold15"
 		"xpos"			"0"
 		"ypos"			"1"
 		"zpos"			"4"
@@ -91,8 +91,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
-		"font"			"aRegular20"
-		"fgcolor"		"ShadowBlack"
+		"font"			"RobotoBold25"
+		"fgcolor"		"75 75 75 255"
 		"xpos"			"-1"
 		"ypos"			"-1"
 		"zpos"			"4"

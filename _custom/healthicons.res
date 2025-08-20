@@ -17,17 +17,17 @@
 	}
 	"niko"
 	{
-		"visible"									"1"
+		"visible"									"0"
 		"visible_minmode"							"0"
 	}
 	"nikobuff"
 	{
-		"visible"									"1"
+		"visible"									"0"
 		"visible_minmode"							"0"
 	}
 	"nikohurt"
 	{
-		"visible"									"1"
+		"visible"									"0"
 		"visible_minmode"							"0"
 	}
 	//==================================================================================================================================================
