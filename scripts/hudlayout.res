@@ -94,7 +94,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-45"	[$WIN32]
-		"ypos"			"c0"	[$WIN32]
+		"ypos"			"c30"	[$WIN32]
+		"xpos_minmode"	"c-20"	[$WIN32]
+		"ypos_minmode"	"c30"	[$WIN32]
 		"wide"			"9999"
 		"tall"			"9999"
 	}
@@ -205,8 +207,10 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c-57"
-		"ypos"					"c65"
+		"xpos"					"c-137"
+		"ypos"					"c45"
+		"xpos_minmode"			"c-57"
+		"ypos_minmode"			"c65"
 		"wide"					"9999"
 		"tall"  				"9999"
 		"visible" 				"1"
