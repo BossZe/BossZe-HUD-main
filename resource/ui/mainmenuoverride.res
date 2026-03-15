@@ -246,26 +246,40 @@
 		"tall"			"0"
 	}
 
+//	"TFCharacterImage"	//for remove class
+//	{
+//		// "ControlName"	"ImagePanel"
+//		"fieldName"		"TFCharacterImage"
+//		"xpos"			"9999"
+//
+//		if_taller
+//		{
+//			if_operation
+//			{
+//				"xpos"		"9999"
+//			}
+//		}
+//
+//		"ypos"			"9999"
+//		"zpos"			"-99"
+//		"wide"			"600"
+//		"tall"			"600"
+//		"visible"		"0"
+//		"enabled"		"0"
+//		"scaleImage"	"1"
+//	}
+
 	"TFCharacterImage"
 	{
 		// "ControlName"	"ImagePanel"
 		"fieldName"		"TFCharacterImage"
-		"xpos"			"9999"
-
-		if_taller
-		{
-			if_operation
-			{
-				"xpos"		"9999"
-			}
-		}
-
-		"ypos"			"9999"
+		"xpos"			"c-250"
+		"ypos"			"-80"
 		"zpos"			"-99"
 		"wide"			"600"
 		"tall"			"600"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"scaleImage"	"1"
 	}
 
@@ -1203,8 +1217,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"FriendsContainer"
-		"xpos"			"r175"
-		"ypos"			"cs-0.5+12"
+		"xpos"			"c-253"
+		"ypos"			"c-30.5"
 		"zpos"			"-1"
 		"wide"			"155"
 		"tall"			"232"
@@ -1333,7 +1347,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"VersionLabel"
 		"font"			"RobotoBold9"
-		"labelText"		"v0.8.2"
+		"labelText"		"v0.8.3"
 		"textAlignment"	"east"
 		"xpos"			"r52"
 		"ypos"			"r13"
@@ -1369,6 +1383,35 @@
 		"pin_to_sibling_corner"	"PIN_CENTER_TOP"
 
 		"fgcolor_override"	"255 255 255 255"
+
+		"border_default"	"NoBorder"
+		"border_armed"		"NoBorder"
+		"paintbackground"	"0"
+	}
+
+	"RefreshMenu"
+	{
+		"ControlName"			"CExButton"
+		"fieldName"				"RefreshMenu"
+		"font"					"RobotoBold15"
+		"labelText"				"Refresh (DEV)"
+		"textAlignment"			"center"
+		"xpos"					"0"
+		"ypos"					"35"
+		"wide"					"155"
+		"tall"					"30"
+		"visible"				"1"
+		"enabled"				"1"
+		"Command"				"engine vgui_cache_res_files 0; toggle mat_aaquality"
+		"sound_depressed"		"UI/buttonclick.wav"
+		"sound_released"		"UI/buttonclickrelease.wav"
+		"proportionaltoparent"	"1"
+
+		"pin_to_sibling"	"MainMenuSideBG"
+		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"	"PIN_CENTER_TOP"
+
+		"fgcolor_override"	"1 132 255 255"
 
 		"border_default"	"NoBorder"
 		"border_armed"		"NoBorder"

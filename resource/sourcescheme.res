@@ -392,12 +392,17 @@ Scheme
 			"font" "resource/fonts/Roboto-Bold.ttf"
 			"name" "Roboto Bold"
 		}
-		"8"
+		"8" 
+		{
+			"font" "resource/fonts/norwester.otf"
+			"name" "Norwester"
+		}
+		"9"
 		{
 			"font" "resource/fonts/terminus.fon"
-			"name" "Terminus Bold"
+			"name" "Norwester"
 		}
-		"9" 
+		"10" 
 		{
 			"font" "resource/fonts/ArialBoldItalic.ttf"
 			"name" "Arial Bold Italic"

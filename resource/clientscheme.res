@@ -3098,65 +3098,65 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		oneshot5
+		Norwester5
 		{
 			"1"
 			{
-				"name"		"Terminus Bold"
+				"name"		"Norwester"
 				"tall"		"5"
 				"antialias" "1"
 			}
 		}
-		oneshotB9
+		Norwester9
 		{
 			"1"
 			{
-				"name"		"Terminus Bold"
+				"name"		"Norwester"
 				"tall"		"9"
 				"antialias" "1"
 			}
 		}
-		oneshot12
+		Norwester12
 		{
 			"1"
 			{
-				"name"		"Terminus Bold"
+				"name"		"Norwester"
 				"tall"		"12"
 				"antialias" "1"
 			}
 		}
-		oneshot17
+		Norwester17
 		{
 			"1"
 			{
-				"name"		"Terminus Bold"
+				"name"		"Norwester"
 				"tall"		"17"
 				"antialias" "1"
 			}
 		}
-		oneshot21
+		Norwester21
 		{
 			"1"
 			{
-				"name"		"Terminus Bold"
+				"name"		"Norwester"
 				"tall"		"21"
 				"antialias" "1"
 			}
 		}
-		oneshot30
+		Norwester30
 		{
 			"1"
 			{
-				"name"		"Terminus Bold"
+				"name"		"Norwester"
 				"tall"		"30"
 				"antialias" "1"
 			}
 		}
-		oneshot42
+		Norwester42
 		{
 			"1"
 			{
-				"name"		"Terminus Bold"
+				"name"		"Norwester"
 				"tall"		"42"
 				"antialias" "1"
 			}
@@ -6037,6 +6037,11 @@ Scheme
 		{
 			"font" "resource/fonts/ArialBoldItalic.ttf"
 			"name" "Arial Bold Italic"
+		}
+		"10" 
+		{
+			"font" "resource/fonts/norwester.otf"
+			"name" "Norwester"
 		}
 	}
 }
